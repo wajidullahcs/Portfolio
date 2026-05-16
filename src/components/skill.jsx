@@ -2,7 +2,7 @@ import React from "react";
 import react from "../assets/react.png";
 import tailwind from "../assets/tailwind.png";
 import vite from "../assets/vite.png";
-import html from "../assets/html1.Png";
+import html from "../assets/HTML.PNG";
 import css from "../assets/css.jpg";
 import js from "../assets/javascript.png";
 import nodejs from "../assets/nodejs.png";
